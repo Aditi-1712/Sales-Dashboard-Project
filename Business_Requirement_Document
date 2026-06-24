@@ -1,0 +1,48 @@
+# Business Requirements Document (BRD)
+
+## Project Name
+
+Sales Performance Analysis Dashboard
+
+## Business Problem
+
+The organization lacks a centralized reporting solution for monitoring sales performance across products, customers, and geographic regions. Existing reports provide raw transactional data but do not deliver actionable insights for business decision-makers.
+
+## Business Objective
+
+Develop an interactive dashboard that enables stakeholders to:
+
+* Monitor sales performance
+* Track profitability
+* Identify top-performing products
+* Analyze customer behavior
+* Support strategic decision-making
+
+## Stakeholders
+
+* Sales Managers
+* Regional Managers
+* Executive Leadership
+* Business Analysts
+
+## Scope
+
+The dashboard will provide:
+
+* Total Sales KPIs
+* Profit KPIs
+* Regional Performance Analysis
+* Product Category Analysis
+* Customer Performance Analysis
+* Monthly Sales Trends
+
+## Success Criteria
+
+* Dashboard provides real-time business insights.
+* Stakeholders can identify sales trends and performance issues.
+* Decision-making is supported through visual analytics and reporting.
+
+## Assumptions
+
+* Sales data is accurate and complete.
+* Stakeholders have access to Power BI reports.
